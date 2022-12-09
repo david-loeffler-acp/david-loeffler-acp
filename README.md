@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nix
 - 💬 Ask me about nix
 - 📫 How to reach me: nix
-- 😄 Pronouns: Helkicopter/Him
+- 😄 Pronouns: Helkicopter/Apache
 - ⚡ Fun fact: nix
